@@ -1,0 +1,555 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_r",
+				"_render_menu_item"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"fu",
+				"fulfill"
+			],
+			[
+				"slack",
+				"slack_user_id"
+			],
+			[
+				"messag",
+				"messages"
+			],
+			[
+				"trav",
+				"travel_time"
+			],
+			[
+				"d",
+				"distance"
+			],
+			[
+				"dest",
+				"destination_id"
+			],
+			[
+				"DEST",
+				"DEST_STATION"
+			],
+			[
+				"DEST_",
+				"DEST_OUTER_SPACE"
+			],
+			[
+				"des",
+				"destination"
+			],
+			[
+				"desti",
+				"destination"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"agie",
+				"agilecrm_id"
+			],
+			[
+				"agil",
+				"agilecrm_id"
+			],
+			[
+				"campa",
+				"campaign_id"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"eve",
+				"event_name"
+			],
+			[
+				"imag",
+				"images_count"
+			],
+			[
+				"pre",
+				"preview_image"
+			],
+			[
+				"tran",
+				"transactionDetails"
+			],
+			[
+				"albu",
+				"album_id"
+			],
+			[
+				"time",
+				"timezone"
+			],
+			[
+				"guest",
+				"guest_upload"
+			],
+			[
+				"days",
+				"days_left"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"upload",
+				"upload_option"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/eliamorling/Documents/workspace/blog.ideahunt.io/ideahunt",
+		"/Users/eliamorling/Documents/workspace/blog.ideahunt.io/ideahunt/css"
+	],
+	"file_history":
+	[
+		"/Users/eliamorling/Documents/workspace/blog.ideahunt.io/ideahunt/style.css",
+		"/Users/eliamorling/Documents/workspace/blog.ideahunt.io/ideahunt/css/main.css",
+		"/Users/eliamorling/Documents/workspace/blog.ideahunt.io/ideahunt/header.php",
+		"/Users/eliamorling/Documents/workspace/force-upgrade.php",
+		"/Users/eliamorling/Documents/workspace/slackraiders.com/migrations/version7.js",
+		"/Users/eliamorling/Documents/workspace/slackraiders.com/models/destination.js",
+		"/Users/eliamorling/Documents/workspace/slackraiders.com/models/user.js",
+		"/Users/eliamorling/Documents/workspace/slackraiders.com/lib/bookshelf.js",
+		"/Users/eliamorling/Documents/workspace/slackraiders.com/lib/slackraidersbot.js",
+		"/Users/eliamorling/Documents/workspace/slackraiders.com/migrations/version6.js",
+		"/Users/eliamorling/Documents/workspace/slackraiders.com/index.js",
+		"/Users/eliamorling/Documents/workspace/slackraiders.com/migrations/version5.js",
+		"/Users/eliamorling/Documents/workspace/slackraiders.com/migrations/version4.js",
+		"/Users/eliamorling/Documents/workspace/slackraiders.com/migrations/version3.js",
+		"/Users/eliamorling/Documents/workspace/relive.photos/routes/albums.js",
+		"/Users/eliamorling/Documents/workspace/slackraiders.com/slackraiders.sublime-project",
+		"/Users/eliamorling/Documents/workspace/relive.photos/config/passport.js",
+		"/Users/eliamorling/Documents/workspace/ph-bot/index.js",
+		"/Users/eliamorling/Documents/workspace/huntlytics-master/app.js",
+		"/Users/eliamorling/Documents/workspace/relive.photos/views/admin/albums.ejs",
+		"/Users/eliamorling/Documents/workspace/relive.photos/lib/agilecrm.js",
+		"/Users/eliamorling/Documents/workspace/relive.photos/server.js",
+		"/Users/eliamorling/Documents/workspace/relive.photos/routes/routes.js",
+		"/Users/eliamorling/Documents/workspace/relive.photos/routes/index.js",
+		"/Users/eliamorling/Documents/workspace/relive.photos/routes/users.js",
+		"/Users/eliamorling/Documents/workspace/relive.photos/views/shared/agilecrm.ejs",
+		"/Users/eliamorling/Documents/workspace/relive.photos/lib/functions.js",
+		"/Users/eliamorling/Documents/workspace/relive.photos/routes/admin.js",
+		"/Users/eliamorling/Documents/workspace/relive.photos/package.json",
+		"/Users/eliamorling/Documents/workspace/relive.photos/node_modules/curlrequest/index.js",
+		"/Users/eliamorling/Documents/workspace/relive.photos/lib/constants.js",
+		"/Users/eliamorling/Documents/workspace/relive.photos/views/users/forgot_password.ejs",
+		"/Users/eliamorling/Documents/workspace/relive.photos/views/email/template.ejs",
+		"/Users/eliamorling/Documents/workspace/relive.photos/views/bareback.ejs",
+		"/Users/eliamorling/Documents/workspace/relive.photos/views/error.ejs",
+		"/Users/eliamorling/Documents/workspace/relive.photos/views/_index.ejs",
+		"/Users/eliamorling/Documents/workspace/relive.photos/views/albums/index.ejs",
+		"/Users/eliamorling/Documents/workspace/relive.photos/views/albums/show.ejs",
+		"/Users/eliamorling/Documents/workspace/relive.photos/views/albums/login.ejs",
+		"/Users/eliamorling/Documents/workspace/relive.photos/public/js/starter.js",
+		"/Users/eliamorling/Documents/workspace/relive.photos/views/shared/menu.ejs",
+		"/Users/eliamorling/Documents/workspace/relive.photos/views/shared/menu_live.ejs",
+		"/Users/eliamorling/Documents/workspace/relive.photos/public/stylesheets/style.css",
+		"/Users/eliamorling/Documents/workspace/relive.photos/views/albums/edit.ejs",
+		"/Users/eliamorling/Documents/workspace/relive.photos/views/albums/invites.ejs",
+		"/Users/eliamorling/Documents/workspace/relive.photos/views/albums/upload.ejs",
+		"/Users/eliamorling/Documents/workspace/relive.photos/views/albums/upgrade.ejs",
+		"/Users/eliamorling/Documents/workspace/relive.photos/views/admin/update.ejs",
+		"/Users/eliamorling/Documents/workspace/relive.photos/public/js/fileuploader-custom.js",
+		"/Users/eliamorling/Documents/workspace/relive.photos/views/users/login.ejs",
+		"/Users/eliamorling/Documents/workspace/relive.photos/config/auth.js",
+		"/Users/eliamorling/Documents/workspace/relive.photos/_app.js",
+		"/Users/eliamorling/Documents/workspace/relive.photos/relive-photos.sublime-project",
+		"/Users/eliamorling/Documents/workspace/iiieeymp-master-application/libraries/OP_Feedback.php",
+		"/Users/eliamorling/Documents/workspace/relive.photos/app.js",
+		"/Users/eliamorling/Documents/workspace/relive.photos/public/stylesheets/blueimp-gallery.min.css",
+		"/Users/eliamorling/Documents/workspace/relive.photos/views/images.ejs",
+		"/Users/eliamorling/Documents/workspace/relive.photos/.gitignore",
+		"/Users/eliamorling/Documents/workspace/relive.photos/node_modules/blueimp-file-upload-expressjs/lib/configs.js",
+		"/Users/eliamorling/Documents/workspace/relive.photos/routes/uploadManager.js",
+		"/Users/eliamorling/Documents/workspace/growth/jumpstarter/js-init.php",
+		"/Users/eliamorling/Documents/workspace/growth/jumpstarter/jswp-env.php",
+		"/Users/eliamorling/Documents/workspace/growth-hacker-landing-page/growth-hacking/inc/gh_stats/gh-stats.php",
+		"/Users/eliamorling/Documents/workspace/growth-hacker-landing-page/growth-hacking/inc/shortcodes/tinymce/mce-button.js",
+		"/Users/eliamorling/Documents/workspace/growth-hacker-landing-page/growth-hacking/footer.php",
+		"/Users/eliamorling/Documents/workspace/growth-hacker-landing-page/growth-hacking/inc/cpt_meta_boxs/cpt_meta_boxs.php",
+		"/Users/eliamorling/Documents/workspace/growth-hacker-landing-page/growth-hacking/inc/admin/options-init.php",
+		"/Users/eliamorling/Documents/workspace/growth-hacker-landing-page/growth-hacking/style.css",
+		"/Users/eliamorling/Documents/workspace/growth-hacker-landing-page/growth-hacking/index.php",
+		"/Users/eliamorling/Documents/workspace/growth-hacker-landing-page/growth-hacking/page-signup.php",
+		"/Users/eliamorling/Documents/workspace/growth-hacker-landing-page/growth-hacking/page.php",
+		"/Users/eliamorling/Documents/workspace/growth-hacker-landing-page/growth-hacking/search.php",
+		"/Users/eliamorling/Documents/workspace/growth-hacker-landing-page/growth-hacking/sidebar.php",
+		"/Users/eliamorling/Documents/workspace/growth-hacker-landing-page/growth-hacking/single.php",
+		"/Users/eliamorling/Documents/workspace/growth-hacker-landing-page/growth-hacking/inc/theme-init.php",
+		"/Users/eliamorling/Documents/workspace/growth-hacker-landing-page/growth-hacking/inc/assets/css/main.css",
+		"/Users/eliamorling/Documents/workspace/growth-hacker-landing-page/growth-hacking/inc/admin/custom-style.php",
+		"/Users/eliamorling/Documents/workspace/growth-hacker-landing-page/growth-hacking/inc/admin/admin-init.php",
+		"/Users/eliamorling/Documents/workspace/relive.photos/views/menu.ejs",
+		"/Users/eliamorling/Documents/workspace/relive/v2/routes/index.js",
+		"/Users/eliamorling/Documents/workspace/relive/v2/public/stylesheets/style.css",
+		"/Users/eliamorling/Documents/workspace/relive/v2/views/index.ejs",
+		"/Users/eliamorling/Documents/workspace/relive/v2/public/js/starter.js",
+		"/Users/eliamorling/Documents/workspace/relive/v2/app.js",
+		"/Users/eliamorling/Documents/workspace/relive/v2/views/menu.ejs",
+		"/Users/eliamorling/Documents/workspace/relive/v1/views/users.ejs",
+		"/Users/eliamorling/Documents/workspace/relive/v2/views/users.ejs",
+		"/Users/eliamorling/Documents/workspace/relive/v1/routes/index.js",
+		"/Users/eliamorling/Documents/workspace/relive/v1/views/menu.ejs",
+		"/Users/eliamorling/Documents/workspace/relive/v2 (image link)/app.js",
+		"/Users/eliamorling/Documents/workspace/iiieeymp-master-application/controllers/cblcore.php",
+		"/Users/eliamorling/Downloads/redux_options_gangsta_hacks_backup_19-06-2015.json",
+		"/Users/eliamorling/Documents/workspace/relive/v1/views/uploadlink.ejs",
+		"/Users/eliamorling/Documents/workspace/relive/v1/app.js",
+		"/Users/eliamorling/Documents/workspace/slideshow/nginx.conf",
+		"/Users/eliamorling/Documents/workspace/slideshow/daemons.json",
+		"/Users/eliamorling/Documents/workspace/slideshow/Jumpstart-Recipe",
+		"/Users/eliamorling/Downloads/pdf.php",
+		"/Users/eliamorling/Downloads/bokning_helper.php",
+		"/Users/eliamorling/Downloads/go.php",
+		"/Users/eliamorling/Downloads/data.php",
+		"/Users/eliamorling/Downloads/bokning/individualisera_js.php",
+		"/Users/eliamorling/Downloads/bokning/samaka.php",
+		"/Users/eliamorling/Downloads/bokning/header_end_print.php",
+		"/Users/eliamorling/Downloads/bokning/slutfor_js.php",
+		"/Users/eliamorling/Downloads/bokning/bekraftelse_js.php",
+		"/Users/eliamorling/Downloads/bokning/valj_js.php",
+		"/Users/eliamorling/Downloads/bokning/konto.php",
+		"/Users/eliamorling/Downloads/bokning/konto_js.php",
+		"/Users/eliamorling/Downloads/bokning/uppgifter.php",
+		"/Users/eliamorling/Downloads/bokning/uppgifter_js.php",
+		"/Users/eliamorling/Downloads/bokning/footer.php",
+		"/Users/eliamorling/Downloads/bokning/header_end.php",
+		"/Users/eliamorling/Downloads/bokning/menu.php",
+		"/Users/eliamorling/Downloads/bokning/message.php",
+		"/Users/eliamorling/Downloads/bokning/slutfor.php",
+		"/Users/eliamorling/Downloads/bokning/header_start_print.php",
+		"/Users/eliamorling/Downloads/bokning/food.php",
+		"/Users/eliamorling/Downloads/bokning/printit.php",
+		"/Users/eliamorling/Downloads/bokning/pdf_program.php",
+		"/Users/eliamorling/Downloads/bokning/individualisera_hostmotet2011.php",
+		"/Users/eliamorling/Downloads/bokning/individualisera.php",
+		"/Users/eliamorling/Downloads/bokning/bekraftelse.php",
+		"/Users/eliamorling/Downloads/bokning/pdf_faktura.php",
+		"/Users/eliamorling/Downloads/bokning/valj.php",
+		"/Users/eliamorling/Documents/workspace/iiieeymp-master-application/views/emails/group_ready_for_project_work.php",
+		"/Users/eliamorling/Documents/workspace/iiieeymp-master-application/views/pages/course/archive_group_dialog.php",
+		"/Users/eliamorling/Documents/workspace/iiieeymp-master-application/views/pages/course/project_work_dialog.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/eliamorling/Documents/workspace/relive.photos",
+			"/Users/eliamorling/Documents/workspace/growth-hacker-landing-page/growth-hacking"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_render",
+			"_travelto",
+			"_getUser",
+			"'0) Exit'",
+			"'*exit*'",
+			"_walkTo",
+			"_replyWithAttachment",
+			"status",
+			"_replyWith(message",
+			"_replyWith",
+			"_replyWithAttachment",
+			"_replyWithAttachment(message",
+			"_replyWithAttachment",
+			"_showRoomMenu",
+			"messages.",
+			"status",
+			"upgrade",
+			"_replyWith",
+			"_loadBotUser",
+			"debug",
+			"_loadBotUser",
+			"this.user",
+			"_isFromSlackraidersBot",
+			"_isChannelConversation",
+			"defaultto",
+			"_isFromSlackraidersBot",
+			"_replyWith",
+			"this.db",
+			"_connectDb",
+			"this.db",
+			"update",
+			"insert",
+			"update",
+			"SQLite",
+			"_isFromSlackraidersBot",
+			"_isMentioningChuckNorris",
+			"_isChatMessage",
+			"_isMentioningChuckNorris",
+			"NorrisBot",
+			"relive_id",
+			"each",
+			"post",
+			"post.",
+			"err",
+			"select",
+			"update",
+			"auth+'relive.agilecrm.com",
+			"contact_update_property",
+			"email_send",
+			"add_contact_to_campaign",
+			"contact_add_tag",
+			"images",
+			"add_lead_score",
+			"created_album\"",
+			"created_album'",
+			"album_created",
+			"created_album",
+			"return res",
+			"get_contact_by_id",
+			"hashids",
+			"hashids.encode",
+			"hashids",
+			"email_send",
+			"person",
+			"\"SYSTEM\"",
+			"\"value\"",
+			"\"name\"",
+			"\"type\"",
+			"options.data",
+			"ExternalClass",
+			"sms",
+			"tel",
+			"mobile_link",
+			"logo",
+			"bcrypt",
+			"hashids",
+			"enc_string",
+			"Invalid User",
+			"email_set_password",
+			"email_forgot_password",
+			"email_forgot",
+			"app.",
+			"agile_crm",
+			"show_share_dialog",
+			"shareLinkModal",
+			"protocol",
+			"req.get('host')",
+			"created_album",
+			"album.full_url",
+			"album_full_url",
+			"each",
+			"created_album_id",
+			"req",
+			"cookie",
+			"days_left",
+			"album_days_left",
+			"/home",
+			"/upgrade",
+			"images_count",
+			"thumb",
+			"caption",
+			"/home",
+			"album_days_left",
+			"guest",
+			"MOMENT_HOUR_DIFF",
+			"album_days_left",
+			"/upload",
+			"MOMENT_HOUR_DIFF",
+			"moment",
+			"melodifestivalen norrköping",
+			"functions.",
+			"functions.isNotLoggedIn",
+			"functions.isLoggedIn",
+			"isLoggedIn",
+			"exports.isLoggedIn",
+			"exports.checkPassword",
+			"exports.updateUser",
+			"exports.isNotLoggedIn",
+			"/login",
+			"filepicker.io",
+			"/convert",
+			"Add fil",
+			"Add f",
+			"Add",
+			"Add files...",
+			"passport",
+			"local-login",
+			"functions.logIn"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'0) Exit to the Main Corridor'",
+			"'0) Exit'",
+			"_replyWith(user",
+			"_replyWithAttachment(user",
+			"sqlite3",
+			"SlackraidersBot",
+			"auth+server+'",
+			"contact",
+			"\\\"SYSTEM\\\"",
+			"value",
+			"name",
+			"type",
+			"isNotLoggedIn",
+			"isLoggedIn",
+			"checkPassword",
+			"updateUser",
+			"isNotLoggedIn",
+			"logIn",
+			"The Growth Hacker Launchpad",
+			"Growth Hacker Launch Page"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.ideahunt.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
